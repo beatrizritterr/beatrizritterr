@@ -1,4 +1,4 @@
-## ❋ Hi there, I'm Beatriz ❋
+## Hi there, I'm Beatriz ❊
 
 
 
