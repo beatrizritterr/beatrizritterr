@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Beatriz!</h1>
-<h3 align="center">A 18-year-old creative computer engineering student 🖥️⭐</h3>
+<h3 align="center">A creative computer engineering student 🖥️⭐</h3>
 
 - I’m currently working on **TWIST - Puc-Rio**
 
